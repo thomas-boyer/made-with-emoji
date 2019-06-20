@@ -1,0 +1,15 @@
+{
+  "name": "made-with-emoji",
+  "version": "0.1.0",
+  "description": "Fun with emojis and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "made-with-emoji"
+  },
+  "author": "Thomas Boyer",
+  "license": "ISC"
+}
